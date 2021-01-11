@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name": "Jaydev Vala",
+    "occupation": "MERN Stack Developer",
+    "description": "Full Stack Web Developer.",
+    "image": "jaydev.jpeg",
+    "bio": "My name is Jaydev, I'm a Full Stack ReactJS Developer. Currently I'm working as freelancer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "jaydevvala0@gmail.com",
+    "phone": "+91 7016489633",
+    "address": {
+      "street": "328, Anand Nagar",
+      "city": "Gandhinagar",
+      "state": "Gujrat",
+      "zip": "382028"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaydev-vala-30936a1bb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jaydev_vala5/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jaydev-vala",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SVBIT - Gandhinagar",
+        "degree": "IT Engineering",
+        "graduated": "August 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "Freelancing": "Up Work",
+        "title": "JavaScript/Python Specialist",
+        "years": "May 2020 - Present",
+        "description": "Building MERN Stack web applications and python scripts"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instagram clone",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "instagram-clone.jpg",
+        "url": "https://insta-clone-b4ff7.web.app/"
+      },
+      {
+        "title": "ToDo App",
+        "category": "ToDo App built with ReactJS",
+        "image": "todo-app.jpg",
+        "url": "https://fervent-newton-110dcf.netlify.app/"
+      }
+    ]
+  }
+}
