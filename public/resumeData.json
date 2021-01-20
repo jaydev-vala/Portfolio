@@ -59,19 +59,19 @@
       },
       {
         "name": "NodeJs",
-        "level": "95%"
+        "level": "93%"
       },
       {
         "name": "Firebase",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "100%"
+        "level": "90%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
       }
     ]
   },
