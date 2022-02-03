@@ -4,18 +4,18 @@
     "occupation": "MERN Stack Developer",
     "description": "Full Stack Web Developer.",
     "image": "jaydev.jpeg",
-    "bio": "My name is Jaydev, I'm a Full Stack ReactJS Developer. Currently I'm working as freelancer.",
+    "bio": "My name is Jaydev, I'm a Full Stack ReactJS Developer. Currently Studing Cyber Security",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "jaydevvala0@gmail.com",
-    "phone": "+91 7016489633",
+    "phone": "+1 548883-1555",
     "address": {
-      "street": "328, Anand Nagar",
-      "city": "Gandhinagar",
-      "state": "Gujrat",
-      "zip": "382028"
+      "street": "143, Columbia street W",
+      "city": "Waterloo",
+      "state": "Ontario",
+      "zip": "N2L 3L2"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/16tKriLuScIBMTj6KvrHBTgf9ffP-umox/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1yism8_RQBD7-NIuJSZutt7Yrx5NQh5Vp/view?usp=sharing",
     "social": [      
       {
         "name": "linkedin",
@@ -37,16 +37,21 @@
   "resume": {
     "education": [
       {
-        "school": "SVBIT - Gandhinagar",
+        "College": "SVBIT - Gandhinagar",
         "degree": "IT Engineering",
         "graduated": "August 2020",
         "description": "Graduated with Distinction"
+      }
+      {
+        "College": "Conestoga College - Waterloo",
+        "degree": "Computer Application Security - graduate certificate",
+        "Status": "Will graduate in April 2022",
       }
     ],
     "work": [
       {
         "Freelancing": "Up Work",
-        "title": "JavaScript/Python Specialist",
+        "title": "JavaScript Developer",
         "years": "May 2020 - Present",
         "description": "Building MERN Stack web applications and python scripts"
       }
