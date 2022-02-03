@@ -37,10 +37,15 @@
   "resume": {
     "education": [
       {
-        "school": "SVBIT - Gandhinagar",
+        "College": "SVBIT - Gandhinagar",
         "degree": "IT Engineering",
         "graduated": "August 2020",
         "description": "Graduated with Distinction"
+      }
+      {
+        "College": "Conestoga College - Waterloo",
+        "degree": "Computer Application Security - graduate certificate",
+        "Status": "Will graduate in April 2022",
       }
     ],
     "work": [
